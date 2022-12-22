@@ -1,0 +1,11 @@
+img{
+    margin: 40px;
+    background: rgb(188, 96, 96);
+    width: 600px;
+}
+*{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
