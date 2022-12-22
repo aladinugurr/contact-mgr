@@ -9,6 +9,5 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 For use db.json you need to access server file and write on terminal  "npm start" it will start on localhost:9000
 open terminal write cd and drop server file and run "npm start";
 <img src="./src/assets/Homepage.jpg" />
-<img src="./src/assets/Viewpage.jpg" />
-<img src="./src/assets/AddPage.jpg" />
-<img src="./src/assets/Homepage.jpg" />
+<img src="./src/assets/ViewPage.jpg" />
+<img src="./src/assets/Addpage.jpg" />
